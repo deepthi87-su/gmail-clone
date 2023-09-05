@@ -1,6 +1,6 @@
-GMAIL CLONE
+# GMAIL CLONE
 
-MERN stack project
+## MERN stack project
 
 -Material ui and React.js as frontend
 
