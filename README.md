@@ -1,6 +1,6 @@
 GMAIL CLONE
 
-
+MERN stack project
 
 -Material ui and React.js as frontend
 
@@ -14,7 +14,7 @@ The application features following functionalities :
  Inbox, Sent, Starred, Drafts, Bin, All mails, Compose mail.
 The application is deployed on cyclic.sh
 
-MERN stack project
+
 Gmail Starred 
 <img width="1274" alt="Gmail clone starred" src="https://github.com/deepthi87-su/gmail-clone/assets/38854912/6e69accd-fe03-4572-a082-0e39bb65885a">
 
