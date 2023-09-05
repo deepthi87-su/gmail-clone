@@ -1,4 +1,4 @@
-#GMAIL CLONE
+GMAIL CLONE
 
 MERN stack project
 
@@ -10,7 +10,7 @@ MERN stack project
 
 The user interface resembles that of a gmail's layout with a sidebar, email list and email view : Material-UI provides various components for this purpose using axios API handling requests and SMTP.js  functionality for connecting to an SMTP server and sending emails. Custom react hook as a middleware to handle or authentication, validation, and error handling. MongoDB atlas database to connect to  Node.js application using Mongoose.
 
-##The application features following functionalities :
+The application features following functionalities :
  Inbox, Sent, Starred, Drafts, Bin, All mails, Compose mail.
 The application is deployed on cyclic.sh
 
